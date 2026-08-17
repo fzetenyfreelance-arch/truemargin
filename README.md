@@ -38,7 +38,7 @@ TrueMargin is engineered specifically for **item-level unit economics**.
 ## Installation
 
 ### Official Store Release
-Download directly from the [Chrome Web Store](#) *(Link coming upon review completion)*.
+Download directly from the [Chrome Web Store](https://chromewebstore.google.com/detail/truemargin-%E2%80%94-etsy-profit/lpcgojchgfalflaijhnoepaapilbbnje?authuser=0&hl=hu) *(Link coming upon review completion)*.
 
 ### Developer Build (Manual Setup)
 1. Clone this repository: `git clone https://github.com/YOUR_USERNAME/truemargin-extension.git`
